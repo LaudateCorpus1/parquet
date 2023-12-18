@@ -12,7 +12,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/viant/afs v1.12.0
 	github.com/viant/toolbox v0.34.2
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
